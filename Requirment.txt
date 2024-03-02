@@ -1,0 +1,10 @@
+------------  Login/signup page details -------------
+
+Login Button Background color : "#1877f2"
+Signup Button Background color : "#00a400"
+Text Color : #1877f2
+
+border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+Login page Background color: #f0f2f5;
+<button style="font-size:24px"><i class="fa fa-plus"></i></button>
